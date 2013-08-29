@@ -587,6 +587,17 @@ p.pourcent {
     font-size: 1.25em;
 }
 
+/**
+* Issues
+*/
+table.list.issues .done_ratio {
+    padding: 0 !important;
+}
+
+table.list.issues .done_ratio table.progress {
+    width: 100% !important;
+}
+
 /*
 * Icons
 */
