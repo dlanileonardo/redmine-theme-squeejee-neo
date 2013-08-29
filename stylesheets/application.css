@@ -468,7 +468,6 @@ h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 {
 
 #sidebar a.selected {
     background-color: transparent !important;
-    text-decoration: underline !important;
 }
 
 /*
